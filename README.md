@@ -1,0 +1,1 @@
+1.requirements.txt是配置文件，2.cGAN-vppE2EM-DP.ipynb和MI_FDD_BiLSTM.ipynb是两个重要的模型训练文件，按照第三章软件实现方法操作即可，3.数据集在文件E2E_data_noFOECPE中，可以通过MATLAB和VPI联合仿真得到，详细步骤见第三章软件实现方法。
